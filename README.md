@@ -10,7 +10,7 @@ Add the following line to pubspec.yaml:
 
 ```bash
   dependencies:
-    no_internet_connection_widget: 1.0.0
+    no_internet_connection_widget: 1.0.1
 ```
     
 ## Usage/Examples
