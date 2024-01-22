@@ -1,7 +1,8 @@
 name: no_internet_connection_widget
 description: An easy no internet connection widget
 
-version: 1.0.0+1
+version: 1.0.0
+homepage: https://github.com/sooryaraj/no_internet_connection_widget
 
 environment:
   sdk: '>=3.1.2 <4.0.0'
