@@ -26,3 +26,12 @@ flutter:
   uses-material-design: true
   assets:
     - assets/images/no-wi-fi.png
+
+# This package supports all platforms listed below.
+platforms:
+  android:
+  ios:
+  linux:
+  macos:
+  web:
+  windows:
